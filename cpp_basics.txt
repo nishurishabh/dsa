@@ -1,0 +1,9 @@
+Q. Why do we mean by #include, #define and other pre-processors.
+
+
+Q. Why is using namespace std used
+
+
+Q. New and Delete key word in cpp
+
+new keyword is used to dynamically allocate the memory for a variable and return the reference of the memory location. delete can be used to free up the memory.
